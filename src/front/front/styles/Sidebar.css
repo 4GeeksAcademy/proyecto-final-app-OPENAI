@@ -1,0 +1,31 @@
+.sidebar {
+    background: #f8f9fa;
+    border-right: 1px solid #e9ecef;
+    height: 100vh;
+  }
+  .sidebar h4 {
+    font-size: 1.25rem;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  .sidebar ul {
+    list-style: none;
+    padding: 0;
+  }
+  .sidebar .nav-item {
+    padding: 10px 15px;
+    margin: 5px 0;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.2s;
+    font-weight: 500;
+  }
+  .sidebar .nav-item:hover {
+    background: #e2e6ea;
+  }
+  .sidebar .nav-item i {
+    margin-right: 10px;
+    font-size: 1.2rem;
+  }
+  
+    
